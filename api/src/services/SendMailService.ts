@@ -26,7 +26,7 @@ class SendMailService {
 
         const mailTemplateParse = handlebars.compile(TemplateFileContent);
 
-        const html = mailTemplateParse(variables);
+        const html = mailTemplateParse(variables); // a variável html receberá as estilizações do handlebars, e a definiremos como o corpo da mensagem/e-mail.
 
         const message = await this.client.sendMail({
             to,
