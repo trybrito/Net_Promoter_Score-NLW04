@@ -17,7 +17,7 @@ class User {
 
     constructor() {
         if (!this.id) {
-            this.id = uuid();
+            this.id = uuid(); // definimos, na própria aplicação, o valor de id do usuário, pois queríamos o valor no formato de uuid. 
         }
     }
 }
