@@ -1,3 +1,5 @@
 yarn.lock
 .vscode
 settings.json
+node_modules
+api/node_modules/.yarn-integrity
