@@ -4,3 +4,4 @@ settings.json
 api/node_modules
 api/node_modules/.yarn-integrity
 api/yarn-error.log
+api/src/database/database.sqlite
