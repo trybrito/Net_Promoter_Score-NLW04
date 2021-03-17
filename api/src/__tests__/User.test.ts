@@ -13,7 +13,7 @@ describe("Users", () => {
         const connection = getConnection();
         await connection.dropDatabase();
         await connection.close();
-    }); // encerra a conexão e exclui o bd de testes.
+    });
 
     it("Should be able to create a new user", async () => {
         const response = await request(app).post("/users").send({
