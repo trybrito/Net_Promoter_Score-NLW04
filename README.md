@@ -8,8 +8,6 @@
     📌 API Node.js para a criação, implementação e apuração de uma pesquisa de satisfação do tipo Net Promoter Score (NPS)
 </h3>
 
-<br />
-
 <h4 align="center">
  <a href="#-status-do-projeto">Status do Projeto</a> •
  <a href="#-features">Features</a> • 
@@ -31,9 +29,9 @@
 
 ### 🎯 Status do projeto
 
-<h4 align="center"> 
+<h3 align="center"> 
 	🏁  Net Promoter Score 🕹️ Finalizado 🏁
-</h4>
+</h3>
 
 <hr>
 
@@ -105,7 +103,6 @@ $ yarn test
         🤝 Thiago Raniery Ignacio Brito
         </h3>
     </a>
-    <br />
     <h4>E aí, Dev, gostou da aplicação? Bom, se quiser, fique a vontade para entrar em contato comigo por aqui, ou pelas tags abaixo.<h4>
     <br />
     <a href="https://www.linkedin.com/in/thiagoranierybrito/">
