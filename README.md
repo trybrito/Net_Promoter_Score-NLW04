@@ -1,2 +1,119 @@
-# Net_Promoter_Score-NLW04
- 
+<div align="center">
+    <img src="./assets/logo_nodejs_vgreen.jpg">
+</div>
+
+<h1 align="center">Net Promoter Score</h1>
+
+<h3 align="center">
+    📌 API Node.js para a criação, implementação e apuração de uma pesquisa de satisfação do tipo Net Promoter Score (NPS)
+</h3>
+
+<br />
+
+<h4 align="center">
+ <a href="#-status-do-projeto">Status do Projeto</a> •
+ <a href="#-features">Features</a> • 
+ <a href="#-pré-requisitos">Pré-requisitos</a> • 
+ <a href="#-tecnologias-utilizadas">Tecnologias Utilizadas</a> • 
+ <a href="#-autor">Autor</a>
+</h4>
+
+<div align="center">
+    <img src="https://img.shields.io/static/v1?label=LICENSE&message=MIT&color=600090&style=for-the-badge&logo=ghost"/>
+    <img src="https://img.shields.io/static/v1?label=typescript&message=93.8%&color=600090&style=for-the-badge&logo=ghost"/>
+    <img src="https://img.shields.io/static/v1?label=yarn&message=v1.22.5&color=600090&style=for-the-badge&logo=ghost"/>
+    <img src="https://img.shields.io/static/v1?label=dependencies&message=up-to-date&color=600090&style=for-the-badge&logo=ghost"/>
+    <img src="https://img.shields.io/static/v1?label=tests&message=passing&color=600090&style=for-the-badge&logo=ghost"/>
+</div>
+
+<br />
+<hr>
+
+### 🎯 Status do projeto
+
+<h4 align="center"> 
+	🏁  Net Promoter Score 🕹️ Finalizado 🏁
+</h4>
+
+<hr>
+
+### 🏆 Features
+
+- [X] Criar migrations da tabela de usuários/clientes, pesquisas e da tabela associativa que uni ambas;
+- [X] Criar models e controllers das entidades citadas;
+- [X] Implementar sistemas de cadastro de usuários, pesquisas e resultados (tabela associativa entre usuários e pesquisas);
+- [X] Utilizar repositórios para o armazenamento de informações de todas as entidades antes do salvamento;
+- [X] Desenvolver e implementar testes de integração;
+- [X] Criar e estilizar o sistema de envio de e-mails para os usuários;
+- [X] Adicionar verificações para os campos de cadastro, como campos required, bem como, tipagem dos mesmos; e
+- [X] Desenvolver o controller responsável pela obtenção e salvamento dos dados de resposta do usuário em relação à pesquisa, tal qual, realizar o cálculo do NPS.
+
+<hr>
+
+### ✅ Pré-requisitos
+
+Fala Dev, antes de iniciar seus testes e/ou contribuições na aplicação, é necessário tem duas coisas instaladas, a primeira é o nosso maravilhoso [GIT](https://git-scm.com) e a segunda, o [Node](https://nodejs.org/en/), além, é claro, de um bom editor de código.
+
+Bom, tendo tudo isso pronto, podemos ir para o passo a passo de como rodar a aplicação
+
+### 🕹️ Rodando a aplicação
+
+```bash
+# Primeiramente, clone este repositório com o GIT
+$ git clone <https://github.com/ThiagoBrito-Dev/Net_Promoter_Score-NLW04>
+
+# Acesse a pasta do projeto no terminal de comando
+$ cd Net_Promoter_Score-NLW04
+
+# E depois, vá para o lugar onde a mágica acontece
+$ cd api
+
+# Instale as dependências presentes no package.json
+$ yarn add / npm install
+
+# Execute a aplicação pelo console
+$ yarn dev
+
+# Acesse <http://localhost:3333> para ver a aplicação no servidor local
+
+# Ademais, caso queira rodar os testes da aplicação, basta digitar no console
+$ yarn test
+```
+<hr>
+
+### 🔮 Tecnologias utilizadas
+
+- [TypeScript](https://www.typescriptlang.org/)
+- [Node.js](https://nodejs.org/en/)
+- [Express](https://expressjs.com/pt-br/)
+- [TypeORM](https://typeorm.io/#/)
+- [SQLite](https://www.sqlite.org/index.html)
+- [Yup](https://github.com/jquense/yup)
+- [UUID Generator](https://www.uuidgenerator.net/)
+- [Nodemailer](https://nodemailer.com/about/)
+- [Handlebars](https://handlebarsjs.com/)
+
+<hr>
+
+### 🎓 Autor
+
+<div align="center">
+    <img src="https://avatars.githubusercontent.com/u/71851038?s=460&u=045ad8499de94cfde24135d2453d7ffc1d72ebda&v=4" width="350px">
+    <br />
+    <a href="https://twitter.com/JamesRyBrito">
+        <h3>
+        🤝 Thiago Raniery Ignacio Brito
+        </h3>
+    </a>
+    <br />
+    <h4>E aí, Dev, gostou da aplicação? Bom, se quiser, fique a vontade para entrar em contato comigo por aqui, ou pelas tags abaixo.<h4>
+    <br />
+    <a href="https://www.linkedin.com/in/thiagoranierybrito/">
+        <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagoranierybrito/">
+        </img>
+    </a>
+    <a href="mailto:thiagobritotrs@gmail.com">
+        <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thiagobritotrs@gmail.com">
+        </img>
+    </a>
+</div>
