@@ -9,10 +9,10 @@
 </h3>
 
 <h4 align="center">
-    <a href="#-status-do-projeto">Status do Projeto</a> •
+    <a href="#-status-do-projeto">Status do projeto</a> •
     <a href="#-features">Features</a> • 
     <a href="#-pré-requisitos">Pré-requisitos</a> • 
-    <a href="#-tecnologias-utilizadas">Tecnologias Utilizadas</a> • 
+    <a href="#-tecnologias-utilizadas">Tecnologias utilizadas</a> • 
     <a href="#-autor">Autor</a> •
     <a href="#-readme-versions">README versions</a>
 </h4>
@@ -104,7 +104,7 @@ $ yarn test
         🤝 Thiago Raniery Ignacio Brito
         </h3>
     </a>
-    <h4>E aí, Dev, gostou da aplicação? Bom, se quiser, fique a vontade para entrar em contato comigo por aqui, ou pelas tags abaixo.<h4>
+    <h4>E aí Dev, gostou da aplicação? Bom, se quiser, fique à vontade para entrar em contato comigo por aqui ou pelas tags abaixo.<h4>
     <br />
     <a href="https://www.linkedin.com/in/thiagoranierybrito/">
         <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagoranierybrito/">
@@ -121,7 +121,7 @@ $ yarn test
 ### 📚 README versions
 
 <p>
-    <a href="">Portuguese (pt-br)</a> 
+    <a href="https://github.com/ThiagoBrito-Dev/Net_Promoter_Score-NLW04/blob/main/README.md">Portuguese (pt-br)</a> 
         |   
     <a href="">English (en-us)</a>
 </p>
