@@ -17,11 +17,11 @@
 </h4>
 
 <div align="center">
-    <img src="https://img.shields.io/static/v1?label=LICENSE&message=MIT&color=600090&style=for-the-badge&logo=ghost"/>
-    <img src="https://img.shields.io/static/v1?label=typescript&message=93.8%&color=600090&style=for-the-badge&logo=ghost"/>
-    <img src="https://img.shields.io/static/v1?label=yarn&message=v1.22.5&color=600090&style=for-the-badge&logo=ghost"/>
-    <img src="https://img.shields.io/static/v1?label=dependencies&message=up-to-date&color=600090&style=for-the-badge&logo=ghost"/>
-    <img src="https://img.shields.io/static/v1?label=tests&message=passing&color=600090&style=for-the-badge&logo=ghost"/>
+    <img src="https://img.shields.io/static/v1?label=LICENSE&message=MIT&color=600090&style=for-the-badge"/>
+    <img src="https://img.shields.io/static/v1?label=typescript&message=93.8%&color=600090&style=for-the-badge"/>
+    <img src="https://img.shields.io/static/v1?label=yarn&message=v1.22.5&color=600090&style=for-the-badge"/>
+    <img src="https://img.shields.io/static/v1?label=dependencies&message=up-to-date&color=600090&style=for-the-badge"/>
+    <img src="https://img.shields.io/static/v1?label=tests&message=passing&color=600090&style=for-the-badge"/>
 </div>
 
 <br />
