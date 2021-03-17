@@ -1,5 +1,5 @@
 import { Router } from "express";
-import { AnswerConstroller } from "./controllers/AnswerController";
+import { AnswerController } from "./controllers/AnswerController";
 import { NpsController } from "./controllers/NpsController";
 import { SendMailController } from "./controllers/SendMailController";
 import { SurveyController } from "./controllers/SurveyController";
@@ -10,7 +10,7 @@ const router = Router();
 const userController = new UserController();
 const surveyController = new SurveyController();
 const sendMailController = new SendMailController();
-const answerController = new AnswerConstroller();
+const answerController = new AnswerController();
 const npsController = new NpsController();
 
 router.post("/users", userController.create);
