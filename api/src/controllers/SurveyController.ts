@@ -11,18 +11,18 @@ class SurveyController {
 
         const survey = surveysRepository.create({
             title,
-            description,
+            description
         });
 
         await surveysRepository.save(survey);
 
-        return response.status(201).json(survey); // o status 201 é exibido quando criamos algo, ou seja, é um status de create.
+        return response.status(201).json(survey);
     }
 
     async show(request: Request, response: Response) {
         const surveysRepository = getCustomRepository(SurveysRepository);
 
-        const all = await surveysRepository.find(); //lista todas as pesquisar e guardar na variável all.
+        const all = await surveysRepository.find();
 
         return response.json(all);
     }
