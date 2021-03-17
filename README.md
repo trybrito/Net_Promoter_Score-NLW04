@@ -117,9 +117,9 @@ $ yarn test
 
 <hr>
 
-### README Versions
+### 📚 README Versions
 
-<p align="center">
+<p>
     <a href="">Portuguese (pt-br)</a> 
         |   
     <a href="">English (en-us)</a>
