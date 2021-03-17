@@ -2,7 +2,8 @@ import { Request, Response } from "express";
 import { getCustomRepository, Not, IsNull } from "typeorm";
 import { SurveysUsersRepository } from "../repositories/SurveysUsersRepository";
 
-class NpsController { // cálculo do NPS: (número de promotores - número de detratores) / (número de votantes) * 100.
+class NpsController {
+    // cálculo do NPS: (número de promotores - número de detratores) / (número de votantes) * 100.
 
     async execute(request: Request, response: Response) {
         const { survey_id } = request.params;
