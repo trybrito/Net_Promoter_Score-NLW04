@@ -114,3 +114,13 @@ $ yarn test
         </img>
     </a>
 </div>
+
+<hr>
+
+### README Versions
+
+<p align="center">
+    <a href="">Portuguese (pt-br)</a> 
+        |   
+    <a href="">English (en-us)</a>
+</p>
