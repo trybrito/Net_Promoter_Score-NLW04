@@ -24,7 +24,7 @@ export class CreateSurveysUsers1614259895792 implements MigrationInterface {
                     {
                         name: "value",
                         type: "number",
-                        isNullable: true, // devemos habilitar a anulação do valor do campo pois o objetivo é que o usuário o preencha ao responder á pesquisa, ou seja, inicilamente este campo deverá estar vazio, para ser preenchido posteriormente.
+                        isNullable: true, // devemos habilitar a anulação do valor do campo pois o objetivo é que o usuário o preencha ao responder a pesquisa, ou seja, iniciaamente este campo deverá estar vazio, para ser preenchido posteriormente.
                     },
                     {
                         name: "created_at",
