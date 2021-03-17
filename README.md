@@ -123,5 +123,5 @@ $ yarn test
 <p>
     <a href="https://github.com/ThiagoBrito-Dev/Net_Promoter_Score-NLW04/blob/main/README.md">Portuguese (pt-br)</a> 
         |   
-    <a href="">English (en-us)</a>
+    <a href="https://github.com/ThiagoBrito-Dev/Net_Promoter_Score-NLW04/blob/main/README-en.md">English (en-us)</a>
 </p>
