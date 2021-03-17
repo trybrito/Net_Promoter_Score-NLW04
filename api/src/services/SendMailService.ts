@@ -40,4 +40,4 @@ class SendMailService {
     }
 }
 
-export default new SendMailService(); // Assim que inicializarmos a aplicação, a classe SendMailService também será iniciada e agurdará utilizações.
+export default new SendMailService();
