@@ -1,4 +1,4 @@
-import 'reflect-metadata' // o reflect-metadata tem de ser a primeria importação.
+import 'reflect-metadata' // o reflect-metadata tem de ser a primeira importação.
 import express, { NextFunction, Request, Response } from "express";
 import "express-async-errors";
 import createConnection from "./database"; // por padrão a aplicação já reconhece que, se dentro de database existir um arquivo nomeado de index, é este que ela executará. 
