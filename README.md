@@ -9,11 +9,12 @@
 </h3>
 
 <h4 align="center">
- <a href="#-status-do-projeto">Status do Projeto</a> •
- <a href="#-features">Features</a> • 
- <a href="#-pré-requisitos">Pré-requisitos</a> • 
- <a href="#-tecnologias-utilizadas">Tecnologias Utilizadas</a> • 
- <a href="#-autor">Autor</a>
+    <a href="#-status-do-projeto">Status do Projeto</a> •
+    <a href="#-features">Features</a> • 
+    <a href="#-pré-requisitos">Pré-requisitos</a> • 
+    <a href="#-tecnologias-utilizadas">Tecnologias Utilizadas</a> • 
+    <a href="#-autor">Autor</a> •
+    <a href="#-readme-versions">README versions</a>
 </h4>
 
 <div align="center">
@@ -117,7 +118,7 @@ $ yarn test
 
 <hr>
 
-### 📚 README Versions
+### 📚 README versions
 
 <p>
     <a href="">Portuguese (pt-br)</a> 
