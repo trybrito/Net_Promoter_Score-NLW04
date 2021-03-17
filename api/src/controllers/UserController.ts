@@ -22,7 +22,7 @@ class UserController {
         const usersRepository = getCustomRepository(UsersRepository);
 
         const userAlreadyExists = await usersRepository.findOne({
-            email,
+            email
         });
 
         if (userAlreadyExists) {
@@ -31,7 +31,7 @@ class UserController {
 
         const user = usersRepository.create({
             name,
-            email,
+            email
         });
 
         await usersRepository.save(user);
