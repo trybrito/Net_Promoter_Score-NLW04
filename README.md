@@ -51,7 +51,7 @@
 
 ### ✅ Pré-requisitos
 
-Fala Dev, antes de iniciar seus testes e/ou contribuições na aplicação, é necessário tem duas coisas instaladas, a primeira é o nosso maravilhoso [GIT](https://git-scm.com) e a segunda, o [Node](https://nodejs.org/en/), além, é claro, de um bom editor de código.
+Fala Dev, antes de iniciar seus testes e/ou contribuições na aplicação, é necessário ter duas coisas instaladas, a primeira é o nosso maravilhoso [GIT](https://git-scm.com) e a segunda, o [Node](https://nodejs.org/en/), além, é claro, de um bom editor de código.
 
 Bom, tendo tudo isso pronto, podemos ir para o passo a passo de como rodar a aplicação
 
