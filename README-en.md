@@ -44,7 +44,7 @@
 - [X] Use repositories to store information about all entities before saving them;
 - [X] Develop and implement integration tests;
 - [X] Create and style the system for sending emails to users;
-- [X] Add checks on the registration fields, as the required field, as well as their typing;
+- [X] Add checks on the registration fields, as the required field, as well as their typing; and
 - [X] Develop the controller responsible for obtaining and saving the user's response data in relation to the survey, as well as making the NPS calculation.
 
 <hr>
