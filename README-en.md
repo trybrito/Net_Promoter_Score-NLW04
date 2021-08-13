@@ -38,13 +38,13 @@
 
 ### 🏆 Features
 
-- [X] Create users / costumers, surveys and results (pivot table that join surveys and costumers) migrations;
+- [X] Create users, surveys and results (pivot table that join surveys and costumers) migrations;
 - [X] Create models and controllers of the mentioned entities;
 - [X] Implement users, surveys and results registration systems;
 - [X] Use repositories to store information about all entities before saving them;
 - [X] Develop and implement integration tests;
 - [X] Create and style the system for sending emails to users;
-- [X] Add checks on the registration fields, as the required field, as well as their typing; and
+- [X] Add validations and types to the registration fields; and
 - [X] Develop the controller responsible for obtaining and saving the user's response data in relation to the survey, as well as making the NPS calculation.
 
 <hr>
@@ -97,7 +97,7 @@ $ yarn test
 ### 🎓 Author
 
 <div align="center">
-    <img src="https://avatars.githubusercontent.com/u/71851038?s=460&u=045ad8499de94cfde24135d2453d7ffc1d72ebda&v=4" width="350px">
+    <img src="https://avatars.githubusercontent.com/u/71851038?s=460&u=045ad8499de94cfde24135d2453d7ffc1d72ebda&v=4" width="275px">
     <br />
     <a href="https://twitter.com/JamesRyBrito">
         <h3>
