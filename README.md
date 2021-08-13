@@ -30,21 +30,21 @@
 
 ### 🎯 Status do projeto
 
-<h3 align="center"> 
+<h4 align="center"> 
 	🏁  Net Promoter Score 🕹️ Finalizado 🏁
-</h3>
+</h4>
 
 <hr>
 
 ### 🏆 Features
 
-- [X] Criar migrations da tabela de usuários/clientes, pesquisas e da tabela associativa que uni ambas;
+- [X] Criar migrations da tabela de usuários, pesquisas e da tabela associativa que as une;
 - [X] Criar models e controllers das entidades citadas;
-- [X] Implementar sistemas de cadastro de usuários, pesquisas e resultados (tabela associativa entre usuários e pesquisas);
+- [X] Implementar sistemas de cadastro de usuários, pesquisas e resultados (tabela associativa);
 - [X] Utilizar repositórios para o armazenamento de informações de todas as entidades antes do salvamento;
 - [X] Desenvolver e implementar testes de integração;
 - [X] Criar e estilizar o sistema de envio de e-mails para os usuários;
-- [X] Adicionar verificações para os campos de cadastro, como campos required, bem como, tipagem dos mesmos; e
+- [X] Adicionar validações e tipagens para os campos de cadastro; e
 - [X] Desenvolver o controller responsável pela obtenção e salvamento dos dados de resposta do usuário em relação à pesquisa, tal qual, realizar o cálculo do NPS.
 
 <hr>
@@ -97,7 +97,7 @@ $ yarn test
 ### 🎓 Autor
 
 <div align="center">
-    <img src="https://avatars.githubusercontent.com/u/71851038?s=460&u=045ad8499de94cfde24135d2453d7ffc1d72ebda&v=4" width="350px">
+    <img src="https://avatars.githubusercontent.com/u/71851038?s=460&u=045ad8499de94cfde24135d2453d7ffc1d72ebda&v=4" width="230px">
     <br />
     <a href="https://twitter.com/JamesRyBrito">
         <h3>
