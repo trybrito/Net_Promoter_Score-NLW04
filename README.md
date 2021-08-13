@@ -30,9 +30,9 @@
 
 ### 🎯 Status do projeto
 
-<h4 align="center"> 
+<h3 align="center">
 	🏁  Net Promoter Score 🕹️ Finalizado 🏁
-</h4>
+</h3>
 
 <hr>
 
@@ -97,7 +97,7 @@ $ yarn test
 ### 🎓 Autor
 
 <div align="center">
-    <img src="https://avatars.githubusercontent.com/u/71851038?s=460&u=045ad8499de94cfde24135d2453d7ffc1d72ebda&v=4" width="230px">
+    <img src="https://avatars.githubusercontent.com/u/71851038?s=460&u=045ad8499de94cfde24135d2453d7ffc1d72ebda&v=4" width="275px">
     <br />
     <a href="https://twitter.com/JamesRyBrito">
         <h3>
