@@ -38,14 +38,14 @@
 
 ### 🏆 Features
 
-- [X] Create users, surveys and results (pivot table that join surveys and costumers) migrations;
-- [X] Create models and controllers of the mentioned entities;
-- [X] Implement users, surveys and results registration systems;
-- [X] Use repositories to store information about all entities before saving them;
-- [X] Develop and implement integration tests;
-- [X] Create and style the system for sending emails to users;
-- [X] Add validations and types to the registration fields; and
-- [X] Develop the controller responsible for obtaining and saving the user's response data in relation to the survey, as well as making the NPS calculation.
+- [x] Create users, surveys and results (pivot table that join surveys and costumers) migrations;
+- [x] Create models and controllers of the mentioned entities;
+- [x] Implement users, surveys and results registration systems;
+- [x] Use repositories to store information about all entities before saving them;
+- [x] Develop and implement integration tests;
+- [x] Create and style the system for sending emails to users;
+- [x] Add validations and types to the registration fields; and
+- [x] Develop the controller responsible for obtaining and saving the user's response data in relation to the survey, as well as making the NPS calculation.
 
 <hr>
 
@@ -78,6 +78,7 @@ $ yarn dev
 # In addition, if you want to run the application tests, you have to only type the command below on console
 $ yarn test
 ```
+
 <hr>
 
 ### 🔮 Applied technologies
@@ -97,7 +98,7 @@ $ yarn test
 ### 🎓 Author
 
 <div align="center">
-    <img src="https://avatars.githubusercontent.com/u/71851038?s=460&u=045ad8499de94cfde24135d2453d7ffc1d72ebda&v=4" width="275px">
+    <img src="https://github.com/ThiagoBrito-Dev.png" width="275px">
     <br />
     <a href="https://twitter.com/JamesRyBrito">
         <h3>
