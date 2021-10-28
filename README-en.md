@@ -1,37 +1,36 @@
 <div align="center">
+  <div>
     <img src="./assets/logo_nodejs_vgreen.jpg">
-</div>
+    <h1>Net Promoter Score</h1>
+    <h3>
+      📌 Node.js API for creating, implementing and calculating a Net Promoter Score (NPS) survey
+    </h3>
+  </div>
 
-<h1 align="center">Net Promoter Score</h1>
-
-<h3 align="center">
-    📌 Node.js API for creating, implementing and calculating a Net Promoter Score (NPS) survey 
-</h3>
-
-<h4 align="center">
+  <p>
     <a href="#-project-status">Project status</a> •
     <a href="#-features">Features</a> • 
     <a href="#-prerequisites">Prerequisites</a> • 
     <a href="#-applied-technologies">Applied Technologies</a> • 
     <a href="#-author">Author</a> •
     <a href="#-readme-versions">README versions</a>
-</h4>
+  </p>
 
-<div align="center">
-    <img src="https://img.shields.io/static/v1?label=LICENSE&message=MIT&color=600090&style=for-the-badge"/>
-    <img src="https://img.shields.io/static/v1?label=typescript&message=93.7%&color=600090&style=for-the-badge"/>
-    <img src="https://img.shields.io/static/v1?label=yarn&message=v1.22.5&color=600090&style=for-the-badge"/>
-    <img src="https://img.shields.io/static/v1?label=dependencies&message=up-to-date&color=600090&style=for-the-badge"/>
-    <img src="https://img.shields.io/static/v1?label=tests&message=passing&color=600090&style=for-the-badge"/>
+  <div>
+    <img src="https://img.shields.io/static/v1?label=LICENSE&message=MIT&color=8257e6&style=for-the-badge"/>
+    <img src="https://img.shields.io/static/v1?label=typescript&message=93.7%&color=8257e6&style=for-the-badge"/>
+    <img src="https://img.shields.io/static/v1?label=yarn&message=v1.22.5&color=8257e6&style=for-the-badge"/>
+    <img src="https://img.shields.io/static/v1?label=dependencies&message=up-to-date&color=8257e6&style=for-the-badge"/>
+    <img src="https://img.shields.io/static/v1?label=tests&message=passing&color=8257e6&style=for-the-badge"/>
+  </div>
 </div>
 
-<br />
 <hr>
 
 ### 🎯 Project status
 
 <h3 align="center"> 
-	🏁  Net Promoter Score 🕹️ Finished 🏁
+	🏁 Net Promoter Score 🕹️ Finished 🏁
 </h3>
 
 <hr>
@@ -98,31 +97,33 @@ $ yarn test
 ### 🎓 Author
 
 <div align="center">
-    <img src="https://github.com/ThiagoBrito-Dev.png" width="275px">
-    <br />
-    <a href="https://twitter.com/JamesRyBrito">
-        <h3>
-        🤝 Thiago Raniery Ignacio Brito
-        </h3>
-    </a>
-    <h4>Hey Dev, did you like the application? Well, if you want, feel free to get in touch with me for here or through the tags below.<h4>
-    <br />
+  <img src="https://github.com/ThiagoBrito-Dev.png" width="250px" />
+
+  <br />
+
+  <div>
+    <h3>
+      🤝 Thiago Raniery Ignacio Brito
+    </h3>
+    <p>
+      Hey Dev, did you like the application? Well, if you want, feel free to get in touch with me for here or through the tags below.
+    <p>
+  </div>
+
+  <div>
     <a href="https://www.linkedin.com/in/thiagoranierybrito/">
-        <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagoranierybrito/">
-        </img>
-    </a>
+      <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagoranierybrito/" /></a>
     <a href="mailto:thiagobritotrs@gmail.com">
-        <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thiagobritotrs@gmail.com">
-        </img>
-    </a>
+      <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:thiagobritotrs@gmail.com" /></a>
+  </div>
 </div>
 
 <hr>
 
 ### 📚 README versions
 
-<p>
-    <a href="https://github.com/ThiagoBrito-Dev/Net_Promoter_Score-NLW04/blob/main/README.md">Portuguese (pt-br)</a> 
-        |   
-    <a href="https://github.com/ThiagoBrito-Dev/Net_Promoter_Score-NLW04/blob/main/README-en.md">English (en-us)</a>
-</p>
+<div>
+  <a href="https://github.com/ThiagoBrito-Dev/Net_Promoter_Score-NLW04/blob/main/README.md">Portuguese (pt-br)</a> 
+  |
+  <a href="https://github.com/ThiagoBrito-Dev/Net_Promoter_Score-NLW04/blob/main/README-en.md">English (en-us)</a>
+</div>
