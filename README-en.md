@@ -1,6 +1,6 @@
 <div align="center">
   <div>
-    <img src="./assets/logo_nodejs_vgreen.jpg">
+    <img src="./assets/logo_nodejs_vgreen.jpg" />
     <h1>Net Promoter Score</h1>
     <h3>
       📌 Node.js API for creating, implementing and calculating a Net Promoter Score (NPS) survey
