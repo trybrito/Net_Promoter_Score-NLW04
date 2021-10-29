@@ -19,8 +19,8 @@
   <div>
     <img src="https://img.shields.io/static/v1?label=LICENSE&message=MIT&color=8257e6&style=for-the-badge"/>
     <img src="https://img.shields.io/static/v1?label=typescript&message=93.7%&color=8257e6&style=for-the-badge"/>
+    <img src="https://img.shields.io/static/v1?label=version&message=v1.0.0&color=8257e6&style=for-the-badge"/>
     <img src="https://img.shields.io/static/v1?label=yarn&message=v1.22.5&color=8257e6&style=for-the-badge"/>
-    <img src="https://img.shields.io/static/v1?label=dependencies&message=up-to-date&color=8257e6&style=for-the-badge"/>
     <img src="https://img.shields.io/static/v1?label=tests&message=passing&color=8257e6&style=for-the-badge"/>
   </div>
 </div>
@@ -44,7 +44,7 @@
 - [x] Desenvolver e implementar testes de integração;
 - [x] Criar e estilizar o sistema de envio de e-mails para os usuários;
 - [x] Adicionar validações e tipagens para os campos de cadastro; e
-- [x] Desenvolver o controller responsável pela obtenção e salvamento dos dados de resposta do usuário em relação à pesquisa, tal qual, realizar o cálculo do NPS.
+- [x] Desenvolver o controller responsável pela obtenção e salvamento dos dados de resposta do usuário em relação à pesquisa, bem como, realizar o cálculo do NPS.
 
 <hr>
 
