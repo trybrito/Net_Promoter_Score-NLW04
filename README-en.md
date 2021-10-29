@@ -19,8 +19,8 @@
   <div>
     <img src="https://img.shields.io/static/v1?label=LICENSE&message=MIT&color=8257e6&style=for-the-badge"/>
     <img src="https://img.shields.io/static/v1?label=typescript&message=93.7%&color=8257e6&style=for-the-badge"/>
+    <img src="https://img.shields.io/static/v1?label=version&message=v1.0.0&color=8257e6&style=for-the-badge"/>
     <img src="https://img.shields.io/static/v1?label=yarn&message=v1.22.5&color=8257e6&style=for-the-badge"/>
-    <img src="https://img.shields.io/static/v1?label=dependencies&message=up-to-date&color=8257e6&style=for-the-badge"/>
     <img src="https://img.shields.io/static/v1?label=tests&message=passing&color=8257e6&style=for-the-badge"/>
   </div>
 </div>
