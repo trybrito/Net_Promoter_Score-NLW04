@@ -44,7 +44,7 @@
 - [x] Desenvolver e implementar testes de integração;
 - [x] Criar e estilizar o sistema de envio de e-mails para os usuários;
 - [x] Adicionar validações e tipagens para os campos de cadastro; e
-- [x] Desenvolver o controller responsável pela obtenção e salvamento dos dados de resposta do usuário em relação à pesquisa, bem como, realizar o cálculo do NPS.
+- [x] Desenvolver o controller responsável pela obtenção e salvamento dos dados da resposta do usuário à pesquisa, bem como, pela realização do cálculo do NPS.
 
 <hr>
 
