@@ -82,6 +82,8 @@ $ yarn test
 
 ### 🔮 Tecnologias utilizadas
 
+- [HTML](https://devdocs.io/html/)
+- [CSS](https://devdocs.io/css/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Node.js](https://nodejs.org/en/)
 - [Express](https://expressjs.com/pt-br/)
