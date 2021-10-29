@@ -61,13 +61,13 @@ Well, having everything installed, we can proceed to the step by step of how to 
 $ git clone <https://github.com/ThiagoBrito-Dev/Net_Promoter_Score-NLW04>
 
 # Access the project folder
-$ cd Net_Promoter_Score-NLW04
+$ cd .../Net_Promoter_Score-NLW04
 
 # And then, go to where the magic happens
-$ cd api
+$ cd ./api
 
 # Install the package.json dependencies
-$ yarn add / npm install
+$ yarn / npm install
 
 # Run the application from the console
 $ yarn dev
