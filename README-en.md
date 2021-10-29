@@ -44,7 +44,7 @@
 - [x] Develop and implement integration tests;
 - [x] Create and style the system for sending emails to users;
 - [x] Add validations and types to the registration fields; and
-- [x] Develop the controller responsible for obtaining and saving the user's response data in relation to the survey, as well as making the NPS calculation.
+- [x] Develop the controller responsible for obtaining and saving user response data to the survey, as well as, for performing the NPS calculation.
 
 <hr>
 
