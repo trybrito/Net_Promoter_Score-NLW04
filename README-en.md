@@ -105,7 +105,7 @@ $ yarn test
 
   <div>
     <h3>
-      🤝 Thiago Raniery Ignacio Brito
+      🤝 Thiago Raniery Brito
     </h3>
     <p>
       Hey Dev, did you like the application? Well, if you want, feel free to get in touch with me for here or through the tags below.
